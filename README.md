@@ -1,7 +1,8 @@
-![](welcome-developer.png)
+<a href="https://www.welcomedeveloper.com">
+  <img
+    alt="Welcome, Developer. A place for developers to have a great time while learning about web development."
+    src="https://raw.githubusercontent.com/danilocastronz/danilocastronz/main/welcome-developer.png"
+  />
+</a>
 
-### Hi, I'm Dan Castro! Nice to meet you 🖖
-
-I'm a Full-Stack developer specialized in Front End web development and Data Visualization.
-
-Check out the [Welcome, Developer](https://www.welcomedeveloper.com) blog where I write about all the coding stuff I'm passionate about 👽 
+[Learn more about me on Welcome, Developer](https://www.welcomedeveloper.com/about)
